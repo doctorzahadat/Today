@@ -1,0 +1,16 @@
+C:\Users\captainnima\Desktop\VB\Today\TodayDesktop\obj\Debug\net6.0-windows\TodayDesktop.frmToday.resources
+C:\Users\captainnima\Desktop\VB\Today\TodayDesktop\obj\Debug\net6.0-windows\TodayDesktop.vbproj.GenerateResource.cache
+C:\Users\captainnima\Desktop\VB\Today\TodayDesktop\obj\Debug\net6.0-windows\TodayDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\captainnima\Desktop\VB\Today\TodayDesktop\obj\Debug\net6.0-windows\TodayDesktop.AssemblyInfoInputs.cache
+C:\Users\captainnima\Desktop\VB\Today\TodayDesktop\obj\Debug\net6.0-windows\TodayDesktop.AssemblyInfo.vb
+C:\Users\captainnima\Desktop\VB\Today\TodayDesktop\obj\Debug\net6.0-windows\TodayDesktop.vbproj.CoreCompileInputs.cache
+C:\Users\captainnima\Desktop\VB\Today\TodayDesktop\bin\Debug\net6.0-windows\TodayDesktop.exe
+C:\Users\captainnima\Desktop\VB\Today\TodayDesktop\bin\Debug\net6.0-windows\TodayDesktop.deps.json
+C:\Users\captainnima\Desktop\VB\Today\TodayDesktop\bin\Debug\net6.0-windows\TodayDesktop.runtimeconfig.json
+C:\Users\captainnima\Desktop\VB\Today\TodayDesktop\bin\Debug\net6.0-windows\TodayDesktop.dll
+C:\Users\captainnima\Desktop\VB\Today\TodayDesktop\bin\Debug\net6.0-windows\TodayDesktop.pdb
+C:\Users\captainnima\Desktop\VB\Today\TodayDesktop\obj\Debug\net6.0-windows\TodayDesktop.dll
+C:\Users\captainnima\Desktop\VB\Today\TodayDesktop\obj\Debug\net6.0-windows\refint\TodayDesktop.dll
+C:\Users\captainnima\Desktop\VB\Today\TodayDesktop\obj\Debug\net6.0-windows\TodayDesktop.pdb
+C:\Users\captainnima\Desktop\VB\Today\TodayDesktop\obj\Debug\net6.0-windows\TodayDesktop.genruntimeconfig.cache
+C:\Users\captainnima\Desktop\VB\Today\TodayDesktop\obj\Debug\net6.0-windows\ref\TodayDesktop.dll

@@ -1,0 +1,11 @@
+C:\Users\captainnima\Desktop\VB\Today\Today\bin\Debug\Today.exe.config
+C:\Users\captainnima\Desktop\VB\Today\Today\bin\Debug\Today.exe
+C:\Users\captainnima\Desktop\VB\Today\Today\bin\Debug\Today.pdb
+C:\Users\captainnima\Desktop\VB\Today\Today\bin\Debug\Today.xml
+C:\Users\captainnima\Desktop\VB\Today\Today\obj\Debug\Today.vbproj.AssemblyReference.cache
+C:\Users\captainnima\Desktop\VB\Today\Today\obj\Debug\Today.Resources.resources
+C:\Users\captainnima\Desktop\VB\Today\Today\obj\Debug\Today.vbproj.GenerateResource.cache
+C:\Users\captainnima\Desktop\VB\Today\Today\obj\Debug\Today.vbproj.CoreCompileInputs.cache
+C:\Users\captainnima\Desktop\VB\Today\Today\obj\Debug\Today.exe
+C:\Users\captainnima\Desktop\VB\Today\Today\obj\Debug\Today.xml
+C:\Users\captainnima\Desktop\VB\Today\Today\obj\Debug\Today.pdb
